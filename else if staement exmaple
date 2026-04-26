@@ -1,0 +1,42 @@
+/* else if statement 
+ let age = 14;
+  if( age >= 18)
+  {
+    console.log(" you can vote");
+  }
+   elseif(" age < 18")
+   {
+    console.log(" you cannot vote");
+   }   */
+
+
+   // gradeing marks//
+    let Marks = 80;
+    if( Marks >= 90)
+    {
+        console.log(" grade is A+");
+    }
+    else if(Marks >= 80)
+    {
+        console.log('grade is A');
+    }
+    else if(Marks >=70)
+    {
+        console.log('grade is b++');
+    }
+    else if(Marks >=60)
+    {
+        console.log('grade is b');
+    }
+    else if(Marks >=50)
+    {
+        console.log('grade is c++');
+    }
+    else if(Marks >=40)
+    {
+        console.log('grade is c');
+    }
+    else if(Marks >= 30)
+    {
+        console.log('grade is d');
+    }
