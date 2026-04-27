@@ -1,0 +1,23 @@
+// switch statement//
+
+
+let color ="blue";
+
+switch( color){
+    case "red":
+    console.log("stop");
+    break;
+    
+    case "yellow":
+    console.log("slow");
+    break;
+
+    case"green":
+    console.log("go");
+    break;
+
+    default:
+        console.log("ligth is broken");
+}
+
+console.log(" after swirch stt");
