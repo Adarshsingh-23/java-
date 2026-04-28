@@ -1,0 +1,3 @@
+let password = prompt("enter you password"):
+console.log(password);
+ password.trim();
