@@ -1,0 +1,10 @@
+// method chainig//
+let msg = " hello";
+/*let Newmsg= msg.trim();
+console.log( 'after the trim:', Newmsg);
+Newmsg = Newmsg. toUpperCase();
+console.log("after the uppercase :", Newmsg);
+*/
+
+let newmsg= msg.trim(). touppercase();
+console.log(newmsg);
