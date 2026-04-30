@@ -1,0 +1,10 @@
+// creating arraay //
+ let inf0 =[ "adarsh", 21,89.9];
+ let names=["adarsh", "abhishek","ankit"];
+ let info = [ "aman", 25, 6.1];  // mixwd array//
+
+ // print enpty array//
+  let arrayname = [];
+   
+  // how to check length //
+    arrayname.length
