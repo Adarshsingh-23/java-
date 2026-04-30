@@ -1,0 +1,12 @@
+// array methods//
+
+let cars = ["maruti","bmw","xuv"," audi"];
+   cars.push("toyota");
+   cars.pop();
+   cars.unshift("tata sirera");
+   cars.shift();
+
+
+   let followers =['a','b',c];
+   let blocked =  followers(a);
+   
