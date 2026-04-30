@@ -1,0 +1,11 @@
+// pratice qs//
+
+let num = 5;
+
+if(num % 10)
+    {
+ console.log('this is a good number');
+}
+else{
+    console.log(" number is not good");
+}
